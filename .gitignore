@@ -4,6 +4,9 @@
 *.o
 *.obj
 
+SD6/SD6/Debug/
+SD6/SD6/Release/
+
 # Precompiled Headers
 *.gch
 *.pch
